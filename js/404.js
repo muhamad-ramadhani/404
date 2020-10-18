@@ -127,6 +127,8 @@
 	
 	window.addEventListener ? window.addEventListener( 'load', initialize, false ) : window.onload = initialize;
 	
+	console.log("y");
+	
 })();
 
 
